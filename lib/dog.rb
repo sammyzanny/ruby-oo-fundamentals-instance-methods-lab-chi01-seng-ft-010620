@@ -7,4 +7,3 @@ class Dog
     puts "The Dog is sitting"
   end
 end
-© 2020 GitHub, Inc.
